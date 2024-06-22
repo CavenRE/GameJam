@@ -1,0 +1,89 @@
+{
+	"total_distance": 1471,
+	"journey": [
+		{
+			"name": "Gauteng",
+			"type": ["start", "settlement"],
+			"description": "The beginning of your journey in Gauteng.",
+			"next": ["Kroonstad"],
+			"distance_km": 0
+		},
+		{
+			"name": "Kroonstad",
+			"type": ["town", "small"],
+			"description": "A town in the Free State province.",
+			"next": ["Bloemfontein"],
+			"distance_km": 244
+		},
+		{
+			"name": "Bloemfontein",
+			"type": ["city", "abandoned"],
+			"description": "The capital city of the Free State province.",
+			"next": ["Gariep Dam"],
+			"distance_km": 212
+		},
+		{
+			"name": "Gariep Dam",
+			"type": ["dam", "settlement"],
+			"description": "The largest dam in South Africa.",
+			"next": ["Colesberg"],
+			"distance_km": 184
+		},
+		{
+			"name": "Colesberg",
+			"type": ["town", "small"],
+			"description": "A small town in the Northern Cape province.",
+			"next": ["Hanover"],
+			"distance_km": 46
+		},
+		{
+			"name": "Hanover",
+			"type": ["town", "market"],
+			"description": "A small town in the Northern Cape province.",
+			"next": ["Beaufort West"],
+			"distance_km": 75
+		},
+		{
+			"name": "Beaufort West",
+			"type": ["town", "large"],
+			"description": "A large town in the Western Cape province.",
+			"next": ["Laingsburg"],
+			"distance_km": 241
+		},
+		{
+			"name": "Laingsburg",
+			"type": ["town", "abandoned"],
+			"description": "A small town in the Western Cape.",
+			"next": ["Matjiesfontein"],
+			"distance_km": 199
+		},
+		{
+			"name": "Matjiesfontein",
+			"type": ["village", "ravaged", "small"],
+			"description": "A small historic village in the Western Cape.",
+			"next": ["Worcester"],
+			"distance_km": 28
+		},
+		{
+			"name": "Worcester",
+			"type": ["town", "medium"],
+			"description": "A large town in the Western Cape.",
+			"next": ["Paarl"],
+			"distance_km": 130
+		},
+		{
+			"name": "Paarl",
+			"type": ["town", "settlement"],
+			"description": "A large town in the Western Cape known for its vineyards.",
+			"next": ["Cape Town"],
+			"distance_km": 51
+		},
+		{
+			"name": "Cape Town",
+			"type": ["end", "town", "large"],
+			"description": "Your final destination in Cape Town.",
+			"next": [],
+			"distance_km": 61
+		}
+	]
+}

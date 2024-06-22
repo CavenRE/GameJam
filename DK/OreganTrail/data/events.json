@@ -1,0 +1,175 @@
+{
+	"events": {
+		"Environmental Events": {
+			"Weather": [
+				"Heavy Rain",
+				"Acid Rain",
+				"Thunderstorm",
+				"Sandstorm",
+				"Snowstorm",
+				"Extreme Heatwave",
+				"Hailstorm",
+				"Fog",
+				"Tornado",
+				"Flash Flood"
+			],
+			"Natural Disasters": [
+				"Earthquake",
+				"Landslide",
+				"Wildfire",
+				"Tsunami",
+				"Volcanic Eruption",
+				"Sinkhole"
+			],
+			"Astronomical": [
+				"Solar Eclipse",
+				"Meteor Shower",
+				"Comet Sighting",
+				"Aurora Borealis"
+			]
+		},
+		"Mechanical/Vehicle Events": {
+			"Breakdowns": [
+				"Broken Wheel",
+				"Broken Axle",
+				"Engine Failure",
+				"Brake Failure",
+				"Fuel Leak",
+				"Overheated Engine"
+			],
+			"Supplies": [
+				"Food Rot",
+				"Water Contamination",
+				"Fuel Shortage",
+				"Supply Theft",
+				"Lost Supplies"
+			],
+			"Obstacles": [
+				"Fallen Tree",
+				"Rockslide",
+				"Blocked Road",
+				"Damaged Bridge"
+			]
+		},
+		"Wildlife Events": {
+			"Animal Encounters": [
+				"Wild Animal Attack",
+				"Snake Bite",
+				"Insect Swarm",
+				"Rabid Animal",
+				"Poisonous Plant Contact"
+			],
+			"Animal Behavior": [
+				"Animal Stampede",
+				"Animal Migration",
+				"Animal Scavenging"
+			]
+		},
+		"Human Encounters": {
+			"Hostile Encounters": [
+				"Bandit Attack",
+				"Ambush",
+				"Hostage Situation",
+				"Thieves at Night",
+				"Rival Convoy Attack"
+			],
+			"Friendly Encounters": [
+				"Friendly Trader",
+				"Helpful Stranger",
+				"Lost Survivor",
+				"Nomadic Tribe",
+				"Refugee Group"
+			],
+			"Settlements": [
+				"Entering a Friendly Town",
+				"Hostile Settlement Encounter",
+				"Trading Post Visit",
+				"Abandoned Village"
+			]
+		},
+		"Health and Safety Events": {
+			"Illnesses": [
+				"X Got Sick",
+				"Food Poisoning",
+				"Waterborne Disease",
+				"Influenza Outbreak",
+				"Parasite Infection"
+			],
+			"Injuries": [
+				"Broken Leg",
+				"Severe Cut",
+				"Burn Injury",
+				"Concussion",
+				"Frostbite"
+			],
+			"Mental Health": [
+				"Mental Break",
+				"Depression",
+				"Anxiety Attack",
+				"Hallucinations",
+				"Insomnia"
+			]
+		},
+		"Social Events": {
+			"Internal Conflicts": [
+				"Argument Between Members",
+				"Leadership Challenge",
+				"Theft within Convoy",
+				"Romance Development",
+				"Betrayal"
+			],
+			"Celebrations": [
+				"Birthday Celebration",
+				"Successful Hunt Feast",
+				"Finding Safe Water Source",
+				"Finding Shelter Celebration"
+			]
+		},
+		"Random Events": [
+			"Discover Hidden Stash",
+			"Find Abandoned Vehicle",
+			"Discover Ancient Ruins",
+			"Find Lost Pet",
+			"Unearth Buried Treasure",
+			"Strange Lights in the Sky",
+			"Unidentified Sound",
+			"Mysterious Disappearance",
+			"Encounter with a Hermit",
+			"Unexplained Illness",
+			"Lost Direction",
+			"Equipment Malfunction",
+			"Unexpected Visitor",
+			"Caravan Sabotage",
+			"Valuable Trade Opportunity"
+		],
+		"Resource Management Events": {
+			"Resource Finds": [
+				"Discover Fresh Water Source",
+				"Find Food Supplies",
+				"Find Medical Supplies",
+				"Find Fuel Cache",
+				"Find Building Materials"
+			],
+			"Resource Losses": [
+				"Supply Cache Stolen",
+				"Fire in Storage",
+				"Spoiled Food",
+				"Water Source Dried Up",
+				"Fuel Leak"
+			]
+		},
+		"Weather and Environmental Challenges": {
+			"Day/Night Cycle": [
+				"Nightfall Challenges",
+				"Dawn Relief",
+				"Midday Heat"
+			],
+			"Seasonal Changes": [
+				"Summer Heatwave",
+				"Winter Cold Snap",
+				"Spring Allergies",
+				"Autumn Harvest"
+			]
+		}
+	}
+}
