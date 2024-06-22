@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Spacewar! (1962)",
+        "weight": 1,
+        "completed": false,
+        "description": "One of the earliest computer games, where two players control spaceships and attempt to shoot each other while maneuvering around a star.",
+        "tag": [
+            "top down",
+            "shooter",
+            "multiplayer"
+        ]
+    },
+    {
+        "name": "Hamurabi (1968)",
+        "weight": 1,
+        "completed": false,
+        "description": "A resource management game where players act as rulers, managing land, population, and resources to keep their kingdom prosperous.",
+        "tag": [
+            "text based",
+            "economic",
+            "strategy"
+        ]
+    },
+    {
+        "name": "Oregon Trail (1971)",
+        "weight": 1,
+        "completed": true,
+        "description": "A simulation of the journey of 19th-century settlers traveling from Missouri to Oregon, involving decisions about supplies, routes, and health.",
+        "tag": [
+            "simulation",
+            "strategy",
+            "text based"
+        ]
+    },
+    {
+        "name": "Pong (1972)",
+        "weight": 1,
+        "completed": false,
+        "description": "A simple tennis-like game where two players use paddles to hit a ball back and forth across the screen.",
+        "tag": [
+            "arcade",
+            "sports",
+            "multiplayer"
+        ]
+    },
+    {
+        "name": "Lemonade Stand (1973)",
+        "weight": 1,
+        "completed": false,
+        "description": "A business simulation where players run a lemonade stand, making decisions about pricing, inventory, and advertising to maximize profits.",
+        "tag": [
+            "economic",
+            "simulation",
+            "strategy"
+        ]
+    },
+    {
+        "name": "Star Trader (1974)",
+        "weight": 1,
+        "completed": false,
+        "description": "A trading simulation game where players buy and sell goods across different star systems, managing resources and making strategic decisions.",
+        "tag": [
+            "economic",
+            "strategy",
+            "simulation"
+        ]
+    },
+    {
+        "name": "Maze War (1974)",
+        "weight": 1,
+        "completed": false,
+        "description": "An early first-person shooter game where players navigate a maze and attempt to shoot other players.",
+        "tag": [
+            "shooter",
+            "maze",
+            "multiplayer"
+        ]
+    },
+    {
+        "name": "Dungeon (1975)",
+        "weight": 1,
+        "completed": false,
+        "description": "Also known as Zork, a text-based adventure game where players explore a dungeon, solve puzzles, and collect treasures.",
+        "tag": [
+            "text based",
+            "dungeon",
+            "adventure"
+        ]
+    },
+    {
+        "name": "Colossal Cave Adventure (1976)",
+        "weight": 1,
+        "completed": false,
+        "description": "One of the earliest interactive fiction games, where players explore a cave, solve puzzles, and collect treasures.",
+        "tag": [
+            "text based",
+            "adventure",
+            "puzzle"
+        ]
+    },
+    {
+        "name": "Breakout (1976)",
+        "weight": 1,
+        "completed": false,
+        "description": "A game where players use a paddle to bounce a ball and break bricks on the screen.",
+        "tag": [
+            "arcade",
+            "puzzle",
+            "single player"
+        ]
+    },
+    {
+        "name": "Adventure (1979)",
+        "weight": 1,
+        "completed": false,
+        "description": "An action-adventure game where players explore a fantasy world, collect items, and defeat enemies to win.",
+        "tag": [
+            "adventure",
+            "action",
+            "fantasy"
+        ]
+    },
+    {
+        "name": "Asteroids (1979)",
+        "weight": 1,
+        "completed": false,
+        "description": "A space-themed arcade game where players control a spaceship and shoot asteroids while avoiding collisions.",
+        "tag": [
+            "arcade",
+            "shooter",
+            "single player"
+        ]
+    },
+    {
+        "name": "Pac-Man (1980)",
+        "weight": 1,
+        "completed": false,
+        "description": "An arcade game where players control Pac-Man, navigating a maze to eat dots while avoiding ghosts.",
+        "tag": [
+            "arcade",
+            "maze",
+            "single player"
+        ]
+    },
+    {
+        "name": "Rogue (1980)",
+        "weight": 1,
+        "completed": false,
+        "description": "A dungeon crawling game where players navigate a procedurally generated dungeon, fighting monsters and collecting treasures.",
+        "tag": [
+            "dungeon",
+            "adventure",
+            "roguelike"
+        ]
+    },
+    {
+        "name": "Donkey Kong (1981)",
+        "weight": 1,
+        "completed": false,
+        "description": "An arcade platformer where players control Mario, climbing ladders and avoiding obstacles to rescue a princess from Donkey Kong.",
+        "tag": [
+            "arcade",
+            "platformer",
+            "single player"
+        ]
+    },
+    {
+        "name": "Frogger (1981)",
+        "weight": 1,
+        "completed": false,
+        "description": "An arcade game where players guide a frog across a busy road and a river, avoiding obstacles to reach safety.",
+        "tag": [
+            "arcade",
+            "action",
+            "single player"
+        ]
+    },
+    {
+        "name": "Defender (1981)",
+        "weight": 1,
+        "completed": false,
+        "description": "A side-scrolling shooter where players control a spaceship, defending humanoids from alien abductors.",
+        "tag": [
+            "shooter",
+            "arcade",
+            "single player"
+        ]
+    },
+    {
+        "name": "Galaga (1981)",
+        "weight": 1,
+        "completed": false,
+        "description": "A space shooter game where players control a spaceship, shooting waves of incoming aliens.",
+        "tag": [
+            "shooter",
+            "arcade",
+            "single player"
+        ]
+    },
+    {
+        "name": "Lode Runner (1983)",
+        "weight": 1,
+        "completed": false,
+        "description": "A puzzle platformer where players collect gold while avoiding guards and using ladders and ropes to navigate levels.",
+        "tag": [
+            "platformer",
+            "puzzle",
+            "single player"
+        ]
+    },
+    {
+        "name": "Tetris (1984)",
+        "weight": 1,
+        "completed": false,
+        "description": "A tile-matching puzzle game where players rotate and place falling blocks to complete and clear lines.",
+        "tag": [
+            "puzzle",
+            "arcade",
+            "single player"
+        ]
+    }
+]
